@@ -20,3 +20,4 @@ Made a web scraper to get the latest news from the BBC website
 To scrape data from the internet 
 
 ## What's next for EXPLORE-WEBSCRAPING-Challenge
+To make it better
